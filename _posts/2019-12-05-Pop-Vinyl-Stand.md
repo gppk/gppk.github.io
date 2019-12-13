@@ -5,8 +5,7 @@ published: true
 ---
 A simple, cool looking stand for a Pop Vinyl figure that won't stand up on it's own.
 
-![Final Pop Vinyl Stand Image]({{site.baseurl}}/_posts/IMG_20191208_143817 - Copy.jpg)
-
+![StandImage.jpg]({{site.baseurl}}/_posts/StandImage.jpg)
 
 ## Tools Used
 
