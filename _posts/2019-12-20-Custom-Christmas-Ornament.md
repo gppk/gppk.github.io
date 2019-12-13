@@ -24,8 +24,8 @@ Family "Make-The-Best-Bauble" Competition Entry - Spinning me!
 4. 3D printed everything in super [silky gold PLA](https://www.amazon.co.uk/gp/product/B07B9VQB9M/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 5. Snapped together, hung on the tree!
 
-
 ## More Pics
-|                             Pic1                             |                             Pic2                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/gppk/gppk.github.io/master/_posts/Images/Bauble1.jpg) | ![](https://raw.githubusercontent.com/gppk/gppk.github.io/master/_posts/Images/Bauble2.jpg) |
+
+![](https://raw.githubusercontent.com/gppk/gppk.github.io/master/_posts/Images/Bauble1.jpg)
+
+![](https://raw.githubusercontent.com/gppk/gppk.github.io/master/_posts/Images/Bauble2.jpg)
