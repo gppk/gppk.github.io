@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: 3D Printed Soap Dispenser
+published: true
 ---
 I designed and printed a soap dispenser so that a local small business didn't need to hold a funnel for over 8 minutes a bottle! That's a big saving of time.
 
