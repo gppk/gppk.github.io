@@ -30,13 +30,6 @@ I designed and printed a soap dispenser so that a local small business didn't ne
 
 ## More Pics
 
-Cardboard Prototype
-https://cdn.discordapp.com/attachments/472308285459005450/672570504649113636/IMG_20191128_192958.jpg
+[Cardboard Prototype Picture](https://cdn.discordapp.com/attachments/472308285459005450/672570504649113636/IMG_20191128_192958.jpg)
 
-The 3D Printer Progress
-https://cdn.discordapp.com/attachments/472308285459005450/672570225820172303/IMG_20191204_165019.jpg
-
-
-
-
-
+[The 3D Printer Progress](https://cdn.discordapp.com/attachments/472308285459005450/672570225820172303/IMG_20191204_165019.jpg)
