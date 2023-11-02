@@ -25,4 +25,4 @@ Think of a makers mark as your digital signature, your distinct emblem that stam
 
 Let me introduce you to the symbol that represents me and will be the makers mark I use on all my custom designs from here on out. The plan was something bold, obvious and that encapsulates me! 3D printed in multicolour.
 
-![PXL_20231102_211332141.jpg]({{site.baseurl}}/_posts/PXL_20231102_211332141.jpg)
+![GPPK Makers Mark](https://raw.githubusercontent.com/gppk/gppk.github.io/master/_posts/PXL_20231102_211332141.jpg)
