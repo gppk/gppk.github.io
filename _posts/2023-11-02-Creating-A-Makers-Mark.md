@@ -20,3 +20,9 @@ Think of a makers mark as your digital signature, your distinct emblem that stam
 5. Personal Connection - Your makers mark is a reflection of you and your journey as a 3D designer. It's a symbol of your passion and dedication. Sharing the story behind your makers mark can create a deeper connection with your audience, letting them see the person behind the designs.
 
 6. Legacy and Recognition - Imagine a future where your 3D designs are celebrated and recognized by a global audience. Your makers mark becomes a part of your legacy, a symbol that future generations will associate with your work, much like famous artists' signatures on their masterpieces.
+
+## Introducing My Unique Makers Mark
+
+Let me introduce you to the symbol that represents me and will be the makers mark I use on all my custom designs from here on out. The plan was something bold, obvious and that encapsulates me! 3D printed in multicolour.
+
+![PXL_20231102_211332141.jpg]({{site.baseurl}}/_posts/PXL_20231102_211332141.jpg)
