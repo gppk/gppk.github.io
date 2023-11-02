@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The Power of a Personal Makers Mark in 3D Design
 
