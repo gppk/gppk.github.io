@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 DIY 3D-Printed Sanding Stick Organizer: A Creative Workspace Solution
 
@@ -43,4 +43,3 @@ Ok that's clearly an exageration but it's definitly a clean storage option.
 As a finishing touch to my 3D-printed sanding stick holder, I couldn't resist incorporating a dash of personal flair. With a nod to my previous blog post on the importance of a maker's mark, I cheekily added my signature emblem to the back of the holder. This subtle detail not only serves as a reminder of the pride I take in my creations but also adds a touch of personality to the functional design. Now, as I reach for my sanding sticks with doors elegantly ironed, the subtle presence of my maker's mark adds a wink of creativity to the overall craftsmanship. After all, every DIY project deserves its own unique stamp!
 
 ![Sanding Stick Makers Mark Image](https://media.discordapp.net/attachments/941670207846502410/1172281323617013901/Top_Down_Open_1.jpg?ex=655fbf0f&is=654d4a0f&hm=6b2d8c2fdb117f9e52d5c69faf03f24f1afeb7f61a8e3cc5eae20c5cb23ff189&=&width=960&height=540)
-
