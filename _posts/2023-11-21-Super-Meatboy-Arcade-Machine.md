@@ -1,3 +1,6 @@
+---
+published: true
+---
 # Unleashing the Arcade Beast: The Super Meat Boy Gaming Extravaganza!
 
 Crafting a One-of-a-Kind Bartop Arcade Experience with a familiar face.
@@ -41,6 +44,8 @@ One noteworthy technique employed in this painting endeavor is dry brushing. Thi
 
 Following the intricate painting process, a final touch was added to ensure the longevity and protection of the model. A layer of matte acrylic varnish was sprayed onto the arcade machine, serving not only as a sealant but also enhancing the overall finish.
 
+## 3D Printing 
+And of course, this whole thing was 3D printed on my Bambu P1S 3D printer. Pretty banging machine and it was very nice having a lot of confidence that these very large parts, with the biggest being 700G of filament in on go, were actually going to print. Very happy i've upgraded from my Ender. 
 
 ## Conclusion
 
