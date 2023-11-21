@@ -48,9 +48,11 @@ And of course, this whole thing was 3D printed on my Bambu P1S 3D printer. Prett
 ## Conclusion
 
 n the world of DIY gaming, the Super Meat Boy arcade machine is a testament to the fusion of engineering precision and creative flair. From the ingenious use of hidden furniture hinges and the repurposing of an old mobile phone for the gaming screen to the meticulous Warhammer-inspired paint job with dry brushing techniques, each aspect reflects a commitment to both form and function. The split-open head, revealing the gaming "brain," and the neatly integrated wireless controller encapsulate the harmonious blend of artistry and engineering. Sealed with a layer of matte acrylic varnish, this arcade machine not only stands as a visual masterpiece but also embodies the iterative journey of turning imaginative visions into tangible DIY realities.
-### Model Attribution
 
-The original model came from ChaosCoreTech on Thingiverse, Attribution below. Obviously edited slightly!
+### Model Attribution
+This is a completely unofficial arcade machine, a fan project based on the original Super Meat Boy video game. If you like this project then checkout the game here - http://supermeatboy.com/
+
+The original 3D model I used came from ChaosCoreTech on Thingiverse, Attribution below. Obviously edited slightly!
 
 > [Super Meat Boy!](https://www.thingiverse.com/thing:2077715)
 by ChaosCoreTech is licensed under the Creative Commons - Attribution license.
