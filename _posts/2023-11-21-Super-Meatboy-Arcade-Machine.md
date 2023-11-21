@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-# Unleashing the Arcade Beast: The Super Meat Boy Gaming Extravaganza!
-
-Crafting a One-of-a-Kind Bartop Arcade Experience with a familiar face.
+Unleashing the Arcade Beast: The Super Meat Boy Gaming Extravaganza!
 
 ## Introduction
 
