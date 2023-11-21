@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## The Power of a Personal Makers Mark in 3D Design
+The Power of a Personal Makers Mark in 3D Design
 
 In the ever-evolving world of 3D design, creativity knows no bounds. From jaw-dropping sculptures to functional prototypes, the possibilities are endless. But what truly sets your work apart from the rest? **One word: Identity**. And that's where your personal makers mark comes into play.
 
