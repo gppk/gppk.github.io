@@ -1,3 +1,7 @@
+---
+published: false
+---
+Creating a custom Warhammer 40k Tau Landing Pad
 After recently buying and painting my first ever Warhammer miniatures, I wanted to create a display piece to show them off. I used some "Tech Terrain" I found on Thingiverse, and designed my own center piece, 3D Printed, Primed & Painted, added some electronics and it looks: Awesome!
 
 ![The Landing Pad in Action!](https://cdn.discordapp.com/attachments/472308285459005450/706860205757038652/TauLandingPad.gif)
