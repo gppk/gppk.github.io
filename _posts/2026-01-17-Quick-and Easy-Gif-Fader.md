@@ -1,0 +1,18 @@
+GPPK Progress GIF Maker: a fast, in-browser GIF workflow
+
+
+I just shipped the GPPK Progress GIF Maker, a small web tool that turns a stack of images into a polished progress GIF in seconds. The whole experience runs in the browser, so there is no server-side processing and nothing to install. You upload, arrange, preview, and export.
+
+Find it here - [https://gppk.dev/photo-gif-fader/ ](https://gppk.dev/photo-gif-fader/)
+
+What it can do:
+
+- Upload multiple images at once and reorder them by drag-and-drop.
+- Generate smooth crossfades between frames with adjustable steps and timing.
+- Control output width, frame delay, and loop count to match the platform you are posting to.
+- Hold the first and last frame to create a clean start and finish.
+- Preview the animation before exporting so you can tune the settings.
+
+The UI is branded for GPPK with a warm gold-on-charcoal palette and a minimal layout that keeps the focus on the animation. It is built to be fast, simple, and reliable for anyone who needs quick progress GIFs for social posts, client updates, or internal status.
+
+If you want to try it, grab [the source](https://github.com/gppk/photo-gif-fader) from GitHub and run it locally with any static file server. Since everything is client-side, it is easy to drop into any workflow.
